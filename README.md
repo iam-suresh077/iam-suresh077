@@ -9,7 +9,6 @@
 ---
 
 👨‍💻 **About Me:**
-
 - 💻 I'm Suresh R, a DevOps & Cloud Engineer, currently exploring automation and cloud-native technologies
 - ⏳ Exploring AWS, Google Cloud & Microsoft Azure
 - 🚀 Always ready to collaborate on DevOps & Cloud projects
@@ -18,8 +17,6 @@
 - ⚡ Fun fact: I love attending Meetups for learning & Conferences for networking
 
 ---
-
-
 ## 🚀 Tools & Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -40,7 +37,7 @@
 
 💖 **Let's get connected:**
 
-[![Linkedin Badge](https://img.shields.io/badge/-r-suresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-suresh-10038426b/)](https://www.linkedin.com/in/r-suresh) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+[![LinkedIn](https://img.shields.io/badge/-r-suresh-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/r-suresh-10038426b/)
+[![Instagram Badge](https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/its.sureshr/)](https://www.instagram.com/its.sureshr/)
 
 ---
