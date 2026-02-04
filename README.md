@@ -1,11 +1,9 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I’m Suresh R, a DevOps and Cloud Engineer. :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+<h2 align="left" style="margin:0; padding:0; line-height:1.2;">
+  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  I’m Suresh R, a DevOps and Cloud Engineer. :computer:<br>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</h2>
+
 ---
 
 👨‍💻 **About Me:**
@@ -37,7 +35,12 @@
 
 💖 **Let's get connected:**
 
-[![LinkedIn](https://img.shields.io/badge/-r-suresh-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/r-suresh-10038426b/)
+[![Linkedin Badge](https://img.shields.io/badge/-rsuresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-suresh-10038426b/)](https://www.linkedin.com/in/r-suresh-10038426b/)
 [![Instagram Badge](https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/its.sureshr/)](https://www.instagram.com/its.sureshr/)
+[![GitHub Badge](https://img.shields.io/badge/-iam--suresh077-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/iam-suresh077)
+[![Gmail Badge](https://img.shields.io/badge/-rsuresh8525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsuresh8525@gmail.com)](mailto:rsuresh8525@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-Chat%20with%20Me-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/7996658525)
+
+
 
 ---
