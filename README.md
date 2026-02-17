@@ -1,13 +1,16 @@
 # Suresh R
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20My%20GitHub%20Profile&color=gradient&height=110&fontSize=40&fontAlignY=35" />
 </p>
+
+
+
 <h3 align="center">Connect with Me! 🌐</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/r-suresh-10038426b/">
-    <img src="https://img.shields.io/badge/-rsuresh-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/r-suresh-10038426b/">
+    <img src="https://img.shields.io/badge/LinkedIn-rsuresh-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/its.sureshr/">
     <img src="https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&logo=instagram&logoColor=white"/>
@@ -23,23 +26,23 @@
   </a>
 </p>
 
-### ⏳🚀 🌟 My Current Chapter
+## 🚀 My Current Focus
+I am a DevOps Engineer focused on bridging development and operations through automation, reliability, and scalable cloud infrastructure.🔧🌐
 
-I'm a passionate DevOps Engineer, helping bridge the gap between development and operations by automating, optimizing, and scaling applications. 🔧🌐
+- 🔭 Currently working on automating deployments, CI/CD pipelines, and infrastructure management
+- 🌱 Actively improving expertise in Docker, Kubernetes, cloud services, and monitoring platforms
+- 👯 Open to collaborating on DevOps, cloud, and open-source projects
+- 💬 Happy to discuss DevOps best practices, Docker, Kubernetes, and GitHub Actions
+- 📫 Reach me at: rsuresh8525@gmail.com
+- ⚡ Enjoy building automation workflows and improving system efficiency
+---
+## 🎯 Professional Goals
 
-- 🔭 I’m currently working on automating deployments, CI/CD pipelines, and infrastructure management
-- 🌱 I’m learning deeper into Docker,Kubernetes, Cloud Services, and Monitoring tools
-- 👯 I’m looking to collaborate on DevOps, Cloud, and Open Source projects
-- 💬 Ask me about DevOps best practices, Docker, Kubernetes, and GitHub Actions!
-- 📫 How to reach me: rsuresh8525@gmail.com
-- ⚡ Fun fact: I love scripting automation while sipping coffee ☕✨
-  
-## 🎯 Goals 
-- 📈 Master advanced Kubernetes and Cloud Native tools (ArgoCD, Helm, Prometheus)
-- ☁️ Deepen expertise in AWS and multi-cloud deployments
-- 🤖 Automate everything: infra, monitoring, CI/CD pipelines
-- 👩‍💻 Share technical blogs and tutorials around DevOps topics
-  
+- Master advanced Kubernetes and cloud-native tooling (Argo CD, Helm, Prometheus)
+- Deepen expertise in AWS and multi-cloud architectures
+- Design fully automated infrastructure, monitoring, and CI/CD pipelines
+- Share practical DevOps knowledge through technical blogs and tutorials
+
 ## 🚀 Tools & Technologies
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -57,11 +60,6 @@ I'm a passionate DevOps Engineer, helping bridge the gap between development and
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
 ---
-
-
-
-
----
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?&animation=fadeIn&type=waving&color=gradient&height=100" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&text=Thanks%20for%20Visiting%20My%20Profile&color=gradient&height=110&fontSize=40&fontAlignY=35" />
 </p>
