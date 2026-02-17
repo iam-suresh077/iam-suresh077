@@ -3,19 +3,24 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
-Connect with Me! 🌐
+<h3 align="center">Connect with Me! 🌐</h3>
 
 <p align="center">
-  <!-- your icons here -->
-</p>
-<p align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-rsuresh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/r-suresh-10038426b/)](https://www.linkedin.com/in/r-suresh-10038426b/)
-[![Instagram Badge](https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/its.sureshr/)](https://www.instagram.com/its.sureshr/)
-[![GitHub Badge](https://img.shields.io/badge/-iam--suresh077-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/iam-suresh077)
-[![Gmail Badge](https://img.shields.io/badge/-rsuresh8525@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsuresh8525@gmail.com)](mailto:rsuresh8525@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-Chat%20with%20Me-25D366?style=flat-square&logo=WhatsApp&logoColor=white)](https://wa.me/7996658525)
-
+  <a href="https://www.linkedin.com/in/r-suresh-10038426b/">
+    <img src="https://img.shields.io/badge/-rsuresh-blue?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/its.sureshr/">
+    <img src="https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/iam-suresh077">
+    <img src="https://img.shields.io/badge/-iam--suresh077-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rsuresh8525@gmail.com">
+    <img src="https://img.shields.io/badge/-rsuresh8525@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/7996658525">
+    <img src="https://img.shields.io/badge/-Chat_with_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ### ⏳🚀 🌟 My Current Chapter
