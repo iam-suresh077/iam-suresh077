@@ -9,9 +9,9 @@
 <h3 align="center">Connect with Me! 🌐</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/r-suresh-10038426b/">
-    <img src="https://img.shields.io/badge/LinkedIn-rsuresh-blue?style=flat-square&logo=LinkedIn&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/r-suresh-10038426b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-rsuresh-blue?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://www.instagram.com/its.sureshr/">
     <img src="https://img.shields.io/badge/-@its.sureshr-D7008A?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
